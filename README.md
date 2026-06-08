@@ -6,7 +6,7 @@ Modelo preditivo para identificação de clientes com alto risco de cancelamento
 
 ## Sobre o projeto
 
-A taxa de churn é uma das métricas mais críticas em empresas de serviços. Identificar, com antecedência, quais clientes têm maior probabilidade de cancelar permite ações direcionadas de retenção — mais eficientes e menos custosas do que campanhas genéricas.
+A taxa de churn é uma das métricas mais críticas em empresas de serviços. Identificar, com antecedência, quais clientes tem maior probabilidade de cancelar permite ações direcionadas de retenção — mais eficientes e menos custosas do que campanhas genéricas.
 
 Este projeto cobre o ciclo completo de um modelo de classificação: análise exploratória, engenharia de features, comparação de algoritmos e interpretação dos resultados via SHAP values.
 
